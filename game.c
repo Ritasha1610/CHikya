@@ -24,5 +24,7 @@ nguess++;
 }
 while(guess!=n);
 
+    printf("thank you \n");
+    
     return 0;
 }
